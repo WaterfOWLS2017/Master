@@ -1,0 +1,6 @@
+[submodule "Compass"]
+	path = Compass
+	url = git@github.com:WaterfOWLS2017/Compass
+[submodule "Motor-Controller"]
+	path = Motor-Controller
+	url = git@github.com:WaterfOWLS2017/Motor-Controller
