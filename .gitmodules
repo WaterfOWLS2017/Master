@@ -4,3 +4,12 @@
 [submodule "Motor-Controller"]
 	path = Motor-Controller
 	url = git@github.com:WaterfOWLS2017/Motor-Controller
+[submodule "CV"]
+	path = CV
+	url = git@github.com:WaterfOWLS2017/CV
+[submodule "Lidar"]
+	path = Lidar
+	url = git@github.com:WaterfOWLS2017/Lidar
+[submodule "GPS"]
+	path = GPS
+	url = git@github.com:WaterfOWLS2017/GPS
