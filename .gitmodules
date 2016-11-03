@@ -1,9 +1,6 @@
 [submodule "Compass"]
 	path = Compass
 	url = git@github.com:WaterfOWLS2017/Compass
-[submodule "Motor-Controller"]
-	path = Motor-Controller
-	url = git@github.com:WaterfOWLS2017/Motor-Controller
 [submodule "CV"]
 	path = CV
 	url = git@github.com:WaterfOWLS2017/CV
@@ -13,3 +10,6 @@
 [submodule "GPS"]
 	path = GPS
 	url = git@github.com:WaterfOWLS2017/GPS
+[submodule "Motors"]
+	path = Motors
+	url = git@github.com:WaterfOWLS2017/Motors
