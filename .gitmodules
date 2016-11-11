@@ -1,0 +1,9 @@
+[submodule "cv"]
+	path = cv
+	url = git@github.com:WaterfOWLS2017/cv
+[submodule "compass"]
+	path = compass
+	url = git@github.com:WaterfOWLS2017/compass
+[submodule "motors"]
+	path = motors
+	url = git@github.com:WaterfOWLS2017/motors
