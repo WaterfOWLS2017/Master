@@ -7,3 +7,7 @@
 [submodule "motors"]
 	path = motors
 	url = git@github.com:WaterfOWLS2017/motors
+[submodule "lidar"]
+	path = lidar
+	url = git@github.com:WaterfOWLS2017/lidar
+
